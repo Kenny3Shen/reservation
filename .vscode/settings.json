@@ -1,9 +1,14 @@
 {
     "cSpell.words": [
+        "chrono",
+        "nanos",
         "pkey",
         "plpgsql",
+        "prost",
         "proto",
         "protos",
+        "sqlx",
+        "thiserror",
         "timespan",
         "TSTZRANGE"
     ],
