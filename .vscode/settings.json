@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "pkey",
+        "plpgsql",
         "proto",
-        "protos"
+        "protos",
+        "timespan",
+        "TSTZRANGE"
     ],
     "rust-analyzer.linkedProjects": [
         "./abi/Cargo.toml",
